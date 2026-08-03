@@ -1,37 +1,29 @@
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enI0ajB3aDFjcnZnbjYzbjA5Zm80amZ2bjJsY2Jzbmc1cTN4ZHlweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aqI52e6h8HhvPSty2e/giphy.gif" />
 
 I'm **Hardik Gupta** — a Backend Developer passionate about building scalable APIs, automation tools, and AI-powered applications. I've worked on enterprise automation at **Sirion Labs**, Generative AI projects during my **IBM internship**, and I'm currently contributing to the development of **Shaw Watches'** e-commerce platform.
-
 <br>
 
 🔭 **Currently working on**
-
 FastAPI backend projects, AI integrations, developer tools, and open-source contributions.
-
 <br>
 
 🌱 **Learning**
 
 API development, database architecture, deployment, system design, and distributed systems.
-
 <br>
 
 💬 **Ask me about**
 
 Python, FastAPI, backend development, football, and games.
-
 <br>
 
 🤝 **Open to collaborate on**
 
 Backend systems, developer tools, and AI-powered applications.
-
 <br>
 
 🌐 **Portfolio**
-
 https://hardikdev.netlify.app/
-
 <br>
 
 ⚡ **Fun fact**
@@ -41,7 +33,6 @@ My username says it all — **Kakarot > Vegeta.** 🐉
 ---
 
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-gupta-239579275/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31063168/hardik-gupta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikgupta15082003@gmail.com)
@@ -49,7 +40,6 @@ My username says it all — **Kakarot > Vegeta.** 🐉
 ---
 
 # 💻 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,7 +56,6 @@ My username says it all — **Kakarot > Vegeta.** 🐉
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.shion.dev/api?username=Kakarot679&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="180" src="https://streak-stats.demolab.com/?user=Kakarot679&theme=tokyonight&hide_border=false" />
