@@ -28,7 +28,7 @@ https://hardikdev.netlify.app/
 
 ⚡ **Fun fact**
 
-My username says it all — **Kakarot > Vegeta.** 🐉
+💥 Kakarot's Kamehameha > Vegeta's Final Flash. ⚡
 
 ---
 
