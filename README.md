@@ -65,3 +65,8 @@ https://hardikdev.netlify.app/
       src="https://raw.githubusercontent.com/Kakarot679/kakarot679/snake-output/github-snake.svg">
   </picture>
 </p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Kakarot679&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Kakarot679&theme=tokyonight&hide_border=false" />
+</p>
