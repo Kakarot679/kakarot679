@@ -1,4 +1,4 @@
-<h4 data-importer="text" align="left">I'm Hardik Gupta — a Backend Developer focused on building scalable APIs, automation tools, and AI-powered applications. I've worked on enterprise automation at Sirion Labs, Generative AI projects during IBM's PBEL program, and currently contribute to the development of Shaw Watches' e-commerce platform.<br><br>🔭 Currently working on: Backend projects with FastAPI, AI integrations, open-source contributions, and developer tools<br><br>🌱 Learning: API development, database design, deployment, system design, and distributed systems<br><br>💬 Ask me about: Coding, football, games, Python, and FastAPI<br><br>🤝 Open to collaborating on: Backend systems, developer tools, and AI-powered applications<br><br>📫 Reach me: 🌐 Portfolio: **https://hardik-dev.netlify.app**<br><br>⚡ Fun fact: My username says it all — Kakarot > Vegeta. 🐉</h4>
+<h4 data-importer="text" align="left">I'm Hardik Gupta — a Backend Developer focused on building scalable APIs, automation tools, and AI-powered applications.I've worked on enterprise automation at Sirion Labs, Generative AI projects at IBM, and I'm currently developing e-commerce solutions at Shaw Watches.<br><br>🔭 Currently working on: Backend projects with FastAPI, AI integrations, open-source contributions, and developer tools<br><br>🌱 Learning: API development, database design, deployment, system design, and distributed systems<br><br>💬 Ask me about: Coding, football, games, Python, and FastAPI<br><br>🤝 Open to collaborating on: Backend systems, developer tools, and AI-powered applications<br><br>🌐 Portfolio: **https://hardik-dev.netlify.app**<br><br>⚡ Fun fact: My username says it all — Kakarot > Vegeta. 🐉</h4>
 
 ###
 
@@ -53,16 +53,12 @@
 
 <br clear="both">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/kakarot679/kakarot679/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/kakarot679/kakarot679/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="140" alt="languages graph"  />
-</div>
+
 
 ###
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/kakarot679/kakarot679/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
