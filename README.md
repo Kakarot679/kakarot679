@@ -1,23 +1,80 @@
-<div align="center">
+<h4 data-importer="text" align="left">I'm Hardik Gupta — a Backend Developer focused on building scalable APIs, automation tools, and AI-powered applications. I've worked on enterprise automation at Sirion Labs, Generative AI projects during IBM's PBEL program, and currently contribute to the development of Shaw Watches' e-commerce platform.<br><br>🔭 Currently working on: Backend projects with FastAPI, AI integrations, open-source contributions, and developer tools<br><br>🌱 Learning: API development, database design, deployment, system design, and distributed systems<br><br>💬 Ask me about: Coding, football, games, Python, and FastAPI<br><br>🤝 Open to collaborating on: Backend systems, developer tools, and AI-powered applications<br><br>📫 Reach me: 🌐 Portfolio: **https://hardik-dev.netlify.app**<br><br>⚡ Fun fact: My username says it all — Kakarot > Vegeta. 🐉</h4>
 
-# Hi, I'm Hardik Gupta 👋
+###
 
-**I’m a Backend Engineer focused on building scalable B2B systems using Python and FastAPI, with expertise in AI (LangChain), SaaS automation, and real-time archi**
+<img data-importer="image" align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enI0ajB3aDFjcnZnbjYzbjA5Zm80amZ2bjJsY2Jzbmc1cTN4ZHlweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aqI52e6h8HhvPSty2e/giphy.gif"  />
 
-<a href="https://github.com/kakarot679"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40kakarot679-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40kakarot679-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
+###
 
-<a href="https://github.com/kakarot679?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/kakarot679.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/kakarot679.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/kakarot679?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/kakarot679.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/kakarot679.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/kakarot679?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-11-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-11-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
-
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/hardik-gupta-239579275" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:hardikgupta15082003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/hardik_kakarot" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+  <a href="https://discord.com/users/1529184867374465179" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
-## 🛠️ Skills & Technologies
+###
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="JavaScript" src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="React" src="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="ESLint" src="https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Vite" src="https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
 
-## 📦 Top Repositories
+###
 
-<a href="https://github.com/Kakarot679/employwiseassignment"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/Kakarot679/employwiseassignment.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="employwiseassignment ⭐ 1" src="https://www.shieldcn.dev/github/stars/Kakarot679/employwiseassignment.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+<br clear="both">
 
----
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/kakarot679/kakarot679/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/kakarot679/kakarot679/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="140" alt="languages graph"  />
+</div>
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/kakarot679/kakarot679/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&descSize=20&descAlign=20&descAlignY=20&theme=tokyonight"  />
+</div>
+
+###
