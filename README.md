@@ -1,19 +1,42 @@
-
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enI0ajB3aDFjcnZnbjYzbjA5Zm80amZ2bjJsY2Jzbmc1cTN4ZHlweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aqI52e6h8HhvPSty2e/giphy.gif" />
 
-I'm **Hardik Gupta** — a Backend Developer passionate about building scalable APIs, automation tools, and AI-powered applications. I've worked on enterprise automation at **Sirion Labs**, Generative AI projects during **IBM' INTERSHIP**, and I'm currently contributing to the development of **Shaw Watches'** e-commerce platform.
+I'm **Hardik Gupta** — a Backend Developer passionate about building scalable APIs, automation tools, and AI-powered applications. I've worked on enterprise automation at **Sirion Labs**, Generative AI projects during my **IBM internship**, and I'm currently contributing to the development of **Shaw Watches'** e-commerce platform.
 
-🔭 **Currently working on:** FastAPI backend projects, AI integrations, developer tools, and open-source contributions.
+<br>
 
-🌱 **Learning:** API development, database architecture, deployment, system design, and distributed systems.
+🔭 **Currently working on**
 
-💬 **Ask me about:** Python, FastAPI, backend development, football, and games.
+FastAPI backend projects, AI integrations, developer tools, and open-source contributions.
 
-🤝 **Open to collaborate on:** Backend systems, developer tools, and AI-powered applications.
+<br>
 
-🌐 **Portfolio:** https://hardikdev.netlify.app/
+🌱 **Learning**
 
-⚡ **Fun fact:** My username says it all — **Kakarot > Vegeta.** 🐉
+API development, database architecture, deployment, system design, and distributed systems.
+
+<br>
+
+💬 **Ask me about**
+
+Python, FastAPI, backend development, football, and games.
+
+<br>
+
+🤝 **Open to collaborate on**
+
+Backend systems, developer tools, and AI-powered applications.
+
+<br>
+
+🌐 **Portfolio**
+
+https://hardikdev.netlify.app/
+
+<br>
+
+⚡ **Fun fact**
+
+My username says it all — **Kakarot > Vegeta.** 🐉
 
 ---
 
@@ -45,10 +68,6 @@ I'm **Hardik Gupta** — a Backend Developer passionate about building scalable 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Kakarot679&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Kakarot679&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kakarot679&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Kakarot679&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
