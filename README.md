@@ -66,6 +66,7 @@ https://hardikdev.netlify.app/
   </picture>
 </p>
 
-| GitHub Stats | Streak |
-|---|---|
-| ![](https://github-readme-stats.shion.dev/api?username=Kakarot679&theme=tokyonight&show_icons=true) | ![](https://streak-stats.demolab.com/?user=Kakarot679&theme=tokyonight) |
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Kakarot679&theme=tokyonight&show_icons=true" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kakarot679&theme=tokyonight&layout=compact" />
+</p>
