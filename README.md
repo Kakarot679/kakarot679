@@ -66,7 +66,6 @@ https://hardikdev.netlify.app/
   </picture>
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kakarot679&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Kakarot679&theme=tokyonight&hide_border=true" />
-</p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kakarot679&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Kakarot679&theme=tokyonight&hide_border=true" height="180" />
